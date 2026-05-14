@@ -42,7 +42,7 @@
 
 ```bash
 # Langkah 1: Download "virus" nya
-git clone https://github.com/ZafriumOS-Dev/Garuda-Boost
+git clone https://github.com/Garuda-Package/Garuda-Virpy
 
 # Langkah 2: Jalankan dengan hak Admin
 cd Garuda-Boost
